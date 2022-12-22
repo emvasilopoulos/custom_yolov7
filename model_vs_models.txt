@@ -1,0 +1,4 @@
+module 'model' is used ONLY for brand new untrained models
+
+module 'models' is used ONLY for pre-trained (by authors of original code) on COCO models.
+
